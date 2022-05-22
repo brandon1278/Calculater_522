@@ -1,0 +1,5 @@
+Link JS file in html by using:
+<script src="calculater.js"></script>
+
+Link CSS file
+<link rel="stylesheet" href="styles.css">
